@@ -24,9 +24,7 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 
 <img align="left" width="120" src="https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg">
 <p align="center">
-![Screenshot_2023-04-01-23-37-10-121_com example movies](https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg | width ="30%")
-
-<img src="screenshots/1640179162978.png" width="30%">
+<img src="[screenshots/1640179162978.png](https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg)" width="30%">
 <img src="screenshots/1640179148024.png" width="30%">
 <img src="screenshots/1640179172631.png" width="30%">
 <img src="screenshots/1640179179700.png" width="30%">
