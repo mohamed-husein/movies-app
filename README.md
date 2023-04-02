@@ -1,6 +1,6 @@
 # MovieDB
 
-Find The Latest trending and upcoming movies and tv shows with MovieDB app. The app contains all info about movies . find similar movies or shows, Browse all genres, video trailers, backdrops, logos, and posters.
+Find The Latest trending and now playing movies and tv shows with Movie app. The app contains all info about movies . find similar movies or shows, Browse all genres, video trailers, backdrops, logos, and posters.
 
 <br/>
 
