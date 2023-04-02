@@ -44,6 +44,9 @@ Find The Latest trending and now playing movies and tv shows with Movie app. The
 - carousel_slider
 - flutter_native_splash
 
+## Movies Video
+- [Movies App video](https://www.linkedin.com/posts/mohamed-hussein-aab3561b1_flutter-mvcabrarchitecture-flutterabrgetx-activity-7048346309128257536-wNKh?utm_source=share&utm_medium=member_desktop)
+
 ## Screen Shots.
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg">
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229363298-7d611b8a-f2c2-4d15-b94e-1c651fa43782.jpg">
@@ -59,7 +62,7 @@ Find The Latest trending and now playing movies and tv shows with Movie app. The
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229363347-570001e1-436a-4c6a-8413-d06dafc42c00.jpg">
 <img width="30%" src="https://user-images.githubusercontent.com/102866604/229363352-e14e0851-0916-4e60-b4fb-5692b77f6a1c.jpg">
 
-[Movies App video](https://www.linkedin.com/posts/mohamed-hussein-aab3561b1_flutter-mvcabrarchitecture-flutterabrgetx-activity-7048346309128257536-wNKh?utm_source=share&utm_medium=member_desktop)
+
 
 ## Behance Design.
 <img width="90%" src="https://user-images.githubusercontent.com/102866604/229364338-480bc0f2-e56a-40ff-a55d-ab289116f6ca.png">
