@@ -22,6 +22,7 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 - Recommendation and similar movie
 - search in movies
 - filter search by genres and year
+- pagination
 
 **Packages used:**
 
