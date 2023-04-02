@@ -58,9 +58,6 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 
 # Contact me
 
-<a href="[mhamedhussein529@outlook.com](https://www.outlook.com/?refd=account.microsoft.com)">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://twitter.com/mhamedhussein52">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
