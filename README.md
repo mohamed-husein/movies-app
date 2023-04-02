@@ -6,6 +6,8 @@ Find The Latest trending and now playing movies and tv shows with Movie app. The
 
 ## App Features.
 
+- Mvc Architecture pattern
+- Getx Statemangement
 - Search Functionality
 - Splash-Screen
 - Select favourite movie
@@ -23,9 +25,6 @@ Find The Latest trending and now playing movies and tv shows with Movie app. The
 - search in movies
 - filter search by genres and year
 - pagination
-
-## Architecture Patern And Statemangement.
-  - Mvc as Arch , Getx As Statemangement
 
 **Packages used:**
 
