@@ -44,7 +44,7 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 - carousel_slider
 - flutter_native_splash
 
-
+## Screen Shots.
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg">
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229363298-7d611b8a-f2c2-4d15-b94e-1c651fa43782.jpg">
 <img align="left" width="30%" src="https://user-images.githubusercontent.com/102866604/229363306-1df60afe-e15a-47aa-9d25-e27c3330b411.jpg">
