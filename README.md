@@ -24,6 +24,9 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 - filter search by genres and year
 - pagination
 
+## Architecture Patern And Statemangement.
+  - Mvc as Arch , Getx As Statemangement
+
 **Packages used:**
 
 - dio
