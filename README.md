@@ -39,7 +39,7 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 - flutter_native_splash
 
 
-<img align="left" width="120" src="https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg"/>
+<img width="120" src="https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg">
 
 
 # Contact me
