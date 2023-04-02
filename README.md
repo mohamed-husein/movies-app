@@ -21,9 +21,6 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 - Cast member detail
 - Recommendation and similar movie
 
-
-<img align="left" width="120" src="https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg"/>
-
 **Packages used:**
 
 - dio
@@ -40,6 +37,9 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 - youtube_player_flutter
 - carousel_slider
 - flutter_native_splash
+
+
+<img align="left" width="120" src="https://user-images.githubusercontent.com/102866604/229362929-d845b67a-9b04-4ddf-b792-4aaa49d961bb.jpg"/>
 
 
 # Contact me
