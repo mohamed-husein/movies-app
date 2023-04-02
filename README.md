@@ -20,6 +20,8 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 - Movie cast
 - Cast member detail
 - Recommendation and similar movie
+- search in movies
+- filter search by genres and year
 
 **Packages used:**
 
@@ -56,7 +58,7 @@ Find The Latest trending and upcoming movies and tv shows with MovieDB app. The 
 
 # Contact me
 
-<a href="mhamedhussein529@outlook.com">
+<a href="[mhamedhussein529@outlook.com](https://www.outlook.com/?refd=account.microsoft.com&fref=home.banner.viewinbox)">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://twitter.com/mhamedhussein52">
